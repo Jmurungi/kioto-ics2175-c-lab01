@@ -2,9 +2,9 @@
  * ICS 2175 - Introduction to Computer Programming
  * Laboratory 01 - Exercise 03: Personalised Calculation
  *
- * Student Name: Joan NYokabi
+ * Student Name: Joan Nyokabi
  * Registration Number: ENB211-0014/2025
- * Variant ID:    (number of workstations)
+ * Variant ID:    (number of workstations in room A = 28,number of workstations in room B =22)
  * Scenario:      (total number of workstations)
  *
  * Instructions:
