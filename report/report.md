@@ -30,7 +30,7 @@ I searched codeblocks in microsoft store and clicked install.Once opened, i sele
 I created my C program on codeblocks by going to file then new then projects selected console applications and chose GNU GCC as the complier. On the interface typed in the hello kioto program and run it where it showed the greeting and the course i do.
 ## 6. Explanation of C Program Structure
 
-    (#include) is used to include the standard input.(main)defines where the execution of the program begins.return(0)ends the program.
+    # include is used to include the standard input.(main)defines where the execution of the program begins.return(0)ends the program.
 
 ## 7. Variables and Data Types
 
